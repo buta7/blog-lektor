@@ -18,9 +18,7 @@ create a project
 
 ## Github
 
-create repository in github
-
-* blog-lektor
+create " blog-lektor" repository in github
     
 ## Deploy
 
