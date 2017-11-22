@@ -22,7 +22,7 @@ create " blog-lektor" repository in github
     
 ## Deploy
 
-initialize blog-lektor repository
+initialize repository
 
     $ cd blog-lektor
     $ echo "*~" >> .gitignore
