@@ -8,8 +8,7 @@ server:
 gen:
 	$(LEKTOR) build --output-path=${BUILD_DIR}
 
-deploy: gen
-	./deploy.sh
+deploy: gen commit push
 
 status:
 	git status
