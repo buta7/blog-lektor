@@ -18,7 +18,7 @@ create a project
 
 ## Github
 
-create two repository
+create repository in github
 
 * blog-lektor
     
