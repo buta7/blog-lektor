@@ -11,7 +11,7 @@ ifneq ("$(wildcard ./.env)","")
   include ./.env
 endif
 
-BUILD_DIR=build
+BUILD_DIR=docs
 
 run: ## Run server
 	@lektor server -h 0.0.0.0
